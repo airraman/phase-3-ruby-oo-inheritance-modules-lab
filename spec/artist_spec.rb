@@ -1,4 +1,4 @@
-require_relative './spec_helper'
+require_relative './spec/song_spec.rb'
 
 describe Artist do
   before(:each) do
